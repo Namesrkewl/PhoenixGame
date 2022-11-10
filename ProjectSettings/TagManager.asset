@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Fighter
+  - FireAtCursor
+  - DirectionalFire
+  - Summon
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Blocking
+  - Actor
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Floor
+    uniqueID: 1809695655
+    locked: 0
+  - name: Interactable
+    uniqueID: 3445558121
+    locked: 0
+  - name: Actor
+    uniqueID: 1960689901
+    locked: 0
+  - name: Design
+    uniqueID: 3798373337
+    locked: 0
+  - name: Weapon
+    uniqueID: 3656419151
+    locked: 0
